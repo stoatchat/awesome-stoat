@@ -103,6 +103,7 @@ An awesome list of things for Revolt, the chat app that's truly built with you i
 
 For a full list of clients with more information, check out the [Revolt Clients page](https://wiki.rvlt.gg/index.php/Revolt_Clients) on the Revolt Community Wiki.
 
+- [Refork](https://github.com/alexjyong/android) - Fork of the Android Stoat client with QOL features and de-googled phone support.
 - [Minecraft: Unofficial Revolt for Fabric](https://rvf.infi.sh/) - Minecraft-based client for the Revolt chat platform.
 - [Mobile App: Clerotri](https://github.com/upryzing/clerotri) - Revolt client for Android and web, built with React Native.
 - [Mobile App: Unoffical Revolt Android App](https://github.com/ashpotter/revolt-mobile) - Revolt Android app based on ASW.
