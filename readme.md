@@ -107,7 +107,6 @@ For a full list of clients with more information, check out the [Revolt Clients 
 - [Mobile App: Clerotri](https://github.com/upryzing/clerotri) - Revolt client for Android and web, built with React Native.
 - [Mobile App: Unoffical Revolt Android App](https://github.com/ashpotter/revolt-mobile) - Revolt Android app based on ASW.
 - [Svolte](https://github.com/itzTheMeow/revolt-svolte) - Revolt client made in Svelte with better mobile/PWA support and QOL features.
-- [RevoltMini](https://codeberg.org/amycatgirl/revoltmini) - Revolt client for relatively small, low-end smartphones.
 - [Refork](https://github.com/alexjyong/android) - Fork of the Android Stoat client with QOL features and de-googled phone support.
 
 ## ❌ Discontinued Projects
@@ -118,6 +117,7 @@ For a full list of clients with more information, check out the [Revolt Clients 
 - [PhotoBox](https://github.com/PhotoBoxPW/PhotoBoxRevolt) - A bot that creates and morphs images into fun memes or with crazy filters.
 - [defectio](https://github.com/LimeProgramming/defectio) - Asyncronous and typed Python library for Revolt.
 - [Revolt.Cli: TUI client for Revolt](https://github.com/Jan0660/Revolt.Cli) - Terminal.Gui based CLI client writen in C#.
+- [RevoltMini](https://codeberg.org/amycatgirl/revoltmini) - Revolt client for relatively small, low-end smartphones.
 - [Taco](https://github.com/Jan0660/Taco) - Multi-purpose bot, includes Discord bridge.
 - [Voltare](https://github.com/Dexare/Voltare) - Typed, modular and extendable Revolt bot framework.
 
