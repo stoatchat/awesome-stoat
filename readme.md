@@ -107,6 +107,7 @@ For a full list of clients with more information, check out the [Revolt Clients 
 - [Mobile App: Clerotri](https://github.com/upryzing/clerotri) - Revolt client for Android and web, built with React Native.
 - [Mobile App: Unoffical Revolt Android App](https://github.com/ashpotter/revolt-mobile) - Revolt Android app based on ASW.
 - [Svolte](https://github.com/itzTheMeow/revolt-svolte) - Revolt client made in Svelte with better mobile/PWA support and QOL features.
+- [Refork](https://github.com/alexjyong/android) - Fork of the Android Stoat client with QOL features and de-googled phone support.
 
 ## ❌ Discontinued Projects
 
