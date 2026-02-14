@@ -75,6 +75,10 @@ An awesome list of things for Revolt, the chat app that's truly built with you i
 
 - [revolt-cobol-api](https://github.com/kabylake1/revolt-cobol-api) - A COBOL API wrapper for making Revolt bots.
 
+### C
+
+- [Ermine](https://codeberg.org/averymt/ermine) - A C99 Stoat API library with minimal external dependencies.
+
 ## 🤖 Bots
 
 - [Bolt](https://github.com/williamhorning/bolt) - A cross-platform bot that bridges Discord, Guilded, and Revolt.
