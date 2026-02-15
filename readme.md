@@ -4,9 +4,9 @@
   <img src="https://revolt.chat/favicon.svg" height="240" />
 </a>
 
-# Awesome Revolt [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) [![lint](https://github.com/revoltchat/awesome-revolt/actions/workflows/main.yaml/badge.svg)](https://github.com/revoltchat/awesome-revolt/actions/workflows/main.yaml)
+# Awesome Stoat [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) [![lint](https://github.com/revoltchat/awesome-revolt/actions/workflows/main.yaml/badge.svg)](https://github.com/revoltchat/awesome-revolt/actions/workflows/main.yaml)
 
-An awesome list of things for Revolt, the chat app that's truly built with you in mind.
+An awesome list of things for Stoat, the best way to stay connected with your friends and community, anywhere, anytime.
 
 </div>
 
