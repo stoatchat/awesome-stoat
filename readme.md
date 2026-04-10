@@ -1,7 +1,7 @@
 <div align="center">
 
-<a href="https://stoat.chat" target="_blank" rel="noopener noreferrer">
-  <img src="https://stoat.chat/favicon.svg" height="240" />
+<a href="https://stoat.chat" rel="noopener noreferrer">
+  <img src="https://stoat.chat/favicon-stoat.svg" height="240" />
 </a>
 
 # Awesome Stoat [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) [![lint](https://github.com/stoatchat/awesome-stoat/actions/workflows/main.yaml/badge.svg)](https://github.com/stoatchat/awesome-stoat/actions/workflows/main.yaml)
