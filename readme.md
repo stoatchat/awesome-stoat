@@ -59,7 +59,7 @@ An awesome list of things for Stoat, the chat app that's truly built with you in
 ## 🤖 Bots
 
 - [Lightning](https://codeberg.org/jersey/lightning/) - A cross-platform bot that bridges Discord and Stoat.
-- [Remix](https://github.com/remix-bot/stoat) - An advanced music bot that supports YouTube, Spotify, and Soundcloud.
+- [Remix](https://github.com/remix-bot/stoat) - An advanced music bot that supports YouTube, Spotify, and SoundCloud.
 - [revcord](https://github.com/mayudev/revcord) - Discord bridge with setup through commands. Supports edits, images, embeds etc.
 - [matrix-appservice-revolt](https://codeberg.org/austinhuang/matrix-appservice-revolt) - Matrix-Stoat bridge.
 - [Borgar](https://github.com/shaksternano/borgar) - A Discord and Stoat bot for making fun image edits.
