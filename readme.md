@@ -74,7 +74,6 @@ An awesome list of things for Stoat, the chat app that's truly built with you in
 For a full list of clients with more information, check out the [Stoat Clients page](https://wiki.rvlt.gg/index.php/Stoat_Clients) on the Stoat Community Wiki.
 
 - [Clerotri](https://github.com/upryzing/clerotri) - Stoat client for Android and web, built with React Native.
-- [Svolte](https://github.com/itzTheMeow/revolt-svolte) - Stoat client made in Svelte with better mobile/PWA support and QOL features.
 - [Refork](https://github.com/alexjyong/android) - Fork of the Android Stoat client with QOL features and de-googled phone support.
 - [ReviteRevived](https://github.com/ReviteRevived/revite) - Fork of the For Legacy Web client with improvements.
 - [UStoat](https://github.com/spyro24/ustoat) - A Stoat client writen in Python.
