@@ -12,9 +12,9 @@ An awesome list of things for Stoat, the chat app that's truly built with you in
 
 ## Contents
 
-- [💻 API Libraries](#api-libraries)
-- [🤖 Bots](#bots)
-- [🔧 Third-party Clients](#third-party-clients)
+- [💻 API Libraries](#-api-libraries)
+- [🤖 Bots](#-bots)
+- [🔧 Third-party Clients](#-third-party-clients)
 
 ## 💻 API Libraries
 
