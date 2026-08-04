@@ -30,6 +30,9 @@ An awesome list of things for Stoat, the chat app that's truly built with you in
 - [Revolt.NET](https://www.nuget.org/packages/Revolt.Net/) - The .NET library for Stoat.
 - [StoatSharp](https://github.com/FluxpointDev/StoatSharp) - C# lib with all the events and easy to use design.
 
+### C++
+- [stoatpp](https://codeberg.org/siq/stoatplusplus) - C++ library with D++-like typefaces, easy to pick up if you have experience in D++
+
 ### Go
 
 - [revoltgo](https://github.com/sentinelb51/revoltgo) - Low-level bindings to the Stoat API, [like discordgo](https://github.com/bwmarrin/discordgo)
