@@ -64,6 +64,7 @@ An awesome list of things for Stoat, the chat app that's truly built with you in
 - [revcord](https://github.com/mayudev/revcord) - Discord bridge with setup through commands. Supports edits, images, embeds etc.
 - [matrix-appservice-revolt](https://codeberg.org/austinhuang/matrix-appservice-revolt) - Matrix-Stoat bridge.
 - [Borgar](https://github.com/shaksternano/borgar) - A Discord and Stoat bot for making fun image edits.
+- [CartelBot](https://github.com/HamBone999/CartelBot_Stoat) - An Econ Bot that is based around making your own Cartel, rise up in the ranks today.
 
 ## 🔧 Third-party Clients
 
