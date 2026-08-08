@@ -42,7 +42,7 @@ An awesome list of things for Stoat, the chat app that's truly built with you in
 ### Rust
 
 - [Rive](https://crates.io/crates/rive) - A Rust ecosystem for Stoat.
-- [Seria](https://github.com/reinacchi/seria) - A Rust-based library for interacting with Stoat.
+- [Kaho](https://github.com/reinacchi/kaho) - A Rust-based library for interacting with Stoat.
 - [Stoat-rs](https://github.com/Zomatree/rust-stoat-sdk) - A Rust-based wrapper for the Stoat API.
 
 ### Swift
