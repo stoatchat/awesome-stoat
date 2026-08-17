@@ -80,6 +80,7 @@ For a full list of clients with more information, check out the [Stoat Clients p
 - [ReviteRevived](https://github.com/ReviteRevived/revite) - Fork of the For Legacy Web client with improvements.
 - [UStoat](https://github.com/spyro24/ustoat) - A Stoat client writen in Python.
 - [Avia Client](https://github.com/AvaLilac/for-desktop) - Fork of the Destkop/Web App to add Plugins/QuickCSS/Themes Support to stoat
+- [RGOClient](https://github.com/sentinelb51/rgoclient) - Native desktop client written in Go, built on top of [revoltgo](https://github.com/sentinelb51/revoltgo)
 
 ## Contributing
 
