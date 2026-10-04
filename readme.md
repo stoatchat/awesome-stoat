@@ -24,6 +24,7 @@ An awesome list of things for Stoat, the chat app that's truly built with you in
 - [Revoice.js](https://github.com/ShadowLp174/revoice.js) - A library for interacting with voice channels on Stoat.
 - [Revolt Uploader](https://github.com/ShadowLp174/revolt-uploader) - A utility package that allows you to add attachments to messages.
 - [Stoatx](https://github.com/stoatx-ts/stoatx) - A library built around making bot development easier with an object-oriented client and decorator framework.
+- [stoatly.js](https://github.com/stoatlyjs/stoatly.js) - A lightweight, string-based JavaScript framework designed for building Stoat bots with ease using string-based scripting.
 
 ### C#
 
