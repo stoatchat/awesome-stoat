@@ -56,6 +56,7 @@ An awesome list of things for Stoat, the chat app that's truly built with you in
 ### C
 
 - [Ermine](https://codeberg.org/averymt/ermine) - A C99 Stoat API library with minimal external dependencies.
+- [StoatC](https://github.com/CreitinGameplays/StoatC) - A simple functional Stoat Bot library written in C23.
 
 ## 🤖 Bots
 
